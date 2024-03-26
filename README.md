@@ -1,4 +1,4 @@
-# Proyecto_pok-mon
+# Proyecto_pokemon
 Proyecto final del corte 2
 El proyecto de Batalla Pokémon es una aplicación de consola que simula una batalla
 entre dos equipos de Pokémon. Se puede jugar contra la maquina o contra otro
